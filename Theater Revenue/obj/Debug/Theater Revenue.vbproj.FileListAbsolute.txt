@@ -1,0 +1,12 @@
+A:\Cincinnati State\.NET programming\Week Four & Five\Theater Revenue\Theater Revenue\bin\Debug\Theater Revenue.exe.config
+A:\Cincinnati State\.NET programming\Week Four & Five\Theater Revenue\Theater Revenue\bin\Debug\Theater Revenue.exe
+A:\Cincinnati State\.NET programming\Week Four & Five\Theater Revenue\Theater Revenue\bin\Debug\Theater Revenue.pdb
+A:\Cincinnati State\.NET programming\Week Four & Five\Theater Revenue\Theater Revenue\bin\Debug\Theater Revenue.xml
+A:\Cincinnati State\.NET programming\Week Four & Five\Theater Revenue\Theater Revenue\obj\Debug\Theater Revenue.vbprojResolveAssemblyReference.cache
+A:\Cincinnati State\.NET programming\Week Four & Five\Theater Revenue\Theater Revenue\obj\Debug\WindowsApp1.Form1.resources
+A:\Cincinnati State\.NET programming\Week Four & Five\Theater Revenue\Theater Revenue\obj\Debug\WindowsApp1.Resources.resources
+A:\Cincinnati State\.NET programming\Week Four & Five\Theater Revenue\Theater Revenue\obj\Debug\Theater Revenue.vbproj.GenerateResource.Cache
+A:\Cincinnati State\.NET programming\Week Four & Five\Theater Revenue\Theater Revenue\obj\Debug\Theater Revenue.vbproj.CoreCompileInputs.cache
+A:\Cincinnati State\.NET programming\Week Four & Five\Theater Revenue\Theater Revenue\obj\Debug\Theater Revenue.exe
+A:\Cincinnati State\.NET programming\Week Four & Five\Theater Revenue\Theater Revenue\obj\Debug\Theater Revenue.xml
+A:\Cincinnati State\.NET programming\Week Four & Five\Theater Revenue\Theater Revenue\obj\Debug\Theater Revenue.pdb
